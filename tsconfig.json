@@ -12,6 +12,9 @@
     "paths": {
       "material": [
         "dist/material"
+      ],
+      "ui": [
+        "dist/ui"
       ]
     },
     "noFallthroughCasesInSwitch": true,
